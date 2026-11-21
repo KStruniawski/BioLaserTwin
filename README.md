@@ -1,5 +1,7 @@
 # BioLaserTwin (`v0.2.0`)
 
+[![DOI](https://zenodo.org/badge/1466579137.svg)](https://doi.org/10.5281/zenodo.24421423)
+
 **BioLaserTwin** is an open-source Python software package for physics-based simulation of biophotonic Fabry–Pérot (FP) microcavity lasers coupled to amyloid-like protein aggregation kinetics, 2D spatial–spectral feature extraction, Fisher/profile-likelihood identifiability analysis, and multi-paradigm inverse parameter estimation.
 
 - **Author (Software):** Karol Struniawski, PhD (Warsaw University of Life Sciences — WULS, `karol_struniawski@sggw.edu.pl`)

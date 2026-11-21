@@ -17,6 +17,7 @@ authors:
     family-names: "Rusakov"
     affiliation: "Institute of Civil Engineering, Warsaw University of Life Sciences (WULS)"
 version: "0.2.0"
+doi: "10.5281/zenodo.24421424"
 date-released: "2026-11-21"
 license: "MIT"
 repository-code: "https://github.com/KStruniawski/BioLaserTwin"
