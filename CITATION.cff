@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "BioLaserTwin: Physics-Based Biophotonic Cavity Simulator, Feature Extractor, and Inversion Suite"
+message: "If you use BioLaserTwin in your research, please cite it using the metadata below."
+type: software
+authors:
+  - given-names: "Karol"
+    family-names: "Struniawski"
+    email: "karol_struniawski@sggw.edu.pl"
+    affiliation: "Institute of Information Technology, Warsaw University of Life Sciences (WULS)"
+  - given-names: "Aleksandra"
+    family-names: "Konopka"
+    affiliation: "Institute of Information Technology, Warsaw University of Life Sciences (WULS)"
+  - given-names: "Piotr"
+    family-names: "Hańczyc"
+    affiliation: "Cellular Immunotherapy Centre, Warsaw University of Life Sciences (WULS)"
+  - given-names: "Konstantin"
+    family-names: "Rusakov"
+    affiliation: "Institute of Civil Engineering, Warsaw University of Life Sciences (WULS)"
+version: "0.2.0"
+date-released: "2026-11-21"
+license: "MIT"
+repository-code: "https://github.com/KStruniawski/BioLaserTwin"
+keywords:
+  - "biophotonics"
+  - "Fabry-Perot microcavity"
+  - "amyloid aggregation"
+  - "population balance equations"
+  - "scientific computing"
+  - "physics-informed machine learning"
+abstract: >-
+  BioLaserTwin is an open-source Python package for forward simulation,
+  spatial-spectral feature extraction, identifiability analysis, and
+  inverse parameter estimation in biophotonic Fabry-Perot microlasers
+  coupled to macromolecular aggregation kinetics.
