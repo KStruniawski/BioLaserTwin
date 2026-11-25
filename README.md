@@ -31,6 +31,14 @@ The package is organized into five decoupled subpackages under `biolaser_twin/`:
 
 Python `>=3.10` (tested on `3.11.0`) is required. Note that `numpy<2.4.0` is pinned for compatibility with legacy `np.trapz` calls in benchmark scripts (core `biolaser_twin` modules support both `np.trapezoid` and `np.trapz`).
 
+Install the published package directly from [PyPI](https://pypi.org/project/biolaser-twin/0.2.0/):
+
+```bash
+pip install biolaser-twin
+```
+
+Or install from source in editable mode with development tools:
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
